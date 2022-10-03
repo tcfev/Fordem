@@ -7,7 +7,7 @@ Our Values / principles (also for moderation etc.): https://github.com/tcfev/fue
 # platforms
 - android
 - ios
-- web
+- web (exemple of how this could look like: https://politikvonunten.org/)
 - all mobile and desktop platforms (browser)
 
 # apis
