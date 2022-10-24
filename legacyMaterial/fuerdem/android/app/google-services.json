@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197703606163",
+    "firebase_url": "https://fuerdem-cna.firebaseio.com",
+    "project_id": "fuerdem-cna",
+    "storage_bucket": "fuerdem-cna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197703606163:android:9a3bc7a0c3c04ce5001266",
+        "android_client_info": {
+          "package_name": "org.codenameact.fuerdem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197703606163-mq3u05un2po33shnomeq6442f6pd6fep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.codenameact.fuerdem",
+            "certificate_hash": "1f760366d7c5b2b50138738b922294f43e194a9c"
+          }
+        },
+        {
+          "client_id": "197703606163-k8dv90pahgch7jrqenuta0deofpf5jme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApoYjIYcs4TF9Nat2l5ZfICSnMoxmgz2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197703606163-k8dv90pahgch7jrqenuta0deofpf5jme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
