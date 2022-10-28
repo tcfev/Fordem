@@ -16,6 +16,22 @@
 default_platform(:android)
 
 platform :android do
+  desc 'Deploy a new internal version to the Google Play Store'
+  lane :internal do
+    versions = google_play_track_version_codes(track: "internal")
+    version_code = versions[0]
+    gradle(
+      task: 'assemble',
+      build_type: 'Release'
+    )
+    supply(
+      track: 'internal',
+      version_code: version_code
+      skip_upload_changelogs: true,
+      apk: lane_context[SharedValues::GRADLE_APK_OUTPUT_PATH].to_s
+    )
+  end
+
   desc "Runs all the tests"
   lane :test do
     gradle(task: "test")
