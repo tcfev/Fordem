@@ -1,4 +1,4 @@
-package de.fuerdem.fuerdem
+package de.fuerdem.app
 
 import io.flutter.embedding.android.FlutterActivity
 

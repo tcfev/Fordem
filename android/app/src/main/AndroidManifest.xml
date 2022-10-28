@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="de.fuerdem.fuerdem">
+    package="de.fuerdem.app">
    <application
-        android:label="fuerdem"
+        android:label="de.fuerdem.app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
