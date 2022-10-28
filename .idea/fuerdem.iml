@@ -2,9 +2,29 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/fuerdem/build" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/fuerdem/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/fuerdem/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/zefyr/build" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/zefyr/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/zefyr/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/zefyr/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/zefyr/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/zefyr/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/notus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/notus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/packages/notus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/quill_delta_fork/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/quill_delta_fork/build" />
+      <excludeFolder url="file://$MODULE_DIR$/legacyMaterial/zefyr_fork/quill_delta_fork/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>

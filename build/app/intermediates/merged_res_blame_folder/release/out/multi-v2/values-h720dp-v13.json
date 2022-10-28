@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "de.fuerdem.app-mergeReleaseResources-31:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/armantorkzaban/.gradle/caches/transforms-3/80e203de59c527c589a65d5dfea068eb/transformed/appcompat-1.5.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

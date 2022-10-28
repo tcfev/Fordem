@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "BUNDLE",
+    "kind": "RegularFile"
+  },
+  "applicationId": "de.fuerdem.app",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../../../../android/app/release/app-release.aab"
+    }
+  ],
+  "elementType": "File"
+}
