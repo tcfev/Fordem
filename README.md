@@ -1,5 +1,5 @@
 # fuerdem
-Fuerdem is a open source political participation platform/app.
+Fuerdem is an open source political participation platform/app.
 See here for more information: https://fuerdem.de/
 
 Our Values / principles (also for moderation etc.): https://github.com/tcfev/fuerDem/issues/57
