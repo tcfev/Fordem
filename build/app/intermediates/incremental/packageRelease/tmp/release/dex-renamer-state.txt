@@ -1,0 +1,4 @@
+#Fri Oct 28 23:27:44 CEST 2022
+base.0=/Users/armantorkzaban/Dev/projects/fuerdem/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

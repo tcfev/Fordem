@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/armantorkzaban/Dev/projects/fuerdem/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.2.2"
+    buildFolder="/Users/armantorkzaban/Dev/projects/fuerdem/build/app"
+    bootClassPath="/Users/armantorkzaban/Library/Android/sdk/platforms/android-33/android.jar:/Users/armantorkzaban/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
