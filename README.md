@@ -8,7 +8,7 @@ This is the main organisation place for the three main parts of the forDem platf
 # forDem
 A censorship-resilient sociopolitical network https://fordem.org/
 
-Our Values & principles (e.g. for content moderation)https://github.com/tcfev/forDem/issues/57
+Our Values & principles (e.g. for content moderation) https://github.com/tcfev/forDem/issues/57
 
 # Platforms
 - Android
