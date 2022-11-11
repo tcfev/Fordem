@@ -1,3 +1,10 @@
+This is the main organisation place for the three parts of the forDem platform:
+1. Backend structure https://github.com/tcfev/backend
+2. Frontend structure: https://github.com/tcfev/fordem-app
+3. Landing page: https://github.com/tcfev/landing-page
+
+
+
 # forDem
 A censorship-resilient sociopolitical network https://fordem.org/
 
