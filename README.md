@@ -26,4 +26,3 @@ Our Values & principles (e.g. for content moderation) https://github.com/tcfev/f
 # Standards - todo  
 - Initiation of user-centred design processes and extension of UI/UX concepts - According to ISO 13407:1999.
 - Design of the system architecture, - ISO/IEC 25010:2011, CD 25019.3
-
