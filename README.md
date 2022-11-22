@@ -18,7 +18,7 @@ This is the main organisation place for the three main parts of the forDem platf
 - Linux, Windows and MacOS
 
 # Connected APIs
-- ActivityPub
+- ActivityPub (Compatible to the Fediverse!)
 
 # UI Design
 [Figma design](https://www.figma.com/file/VHFRoqXfhc2ThZQMZUXcje/%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%DB%8C%2Ff%C3%BCrDem?node-id=0%3A1)  
