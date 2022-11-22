@@ -7,7 +7,9 @@ This is the main organisation place for the three main parts of the forDem platf
 2. Frontend structure: https://github.com/tcfev/fordem-app
 3. Landing page: https://github.com/tcfev/landing-page
 
-Our Values & principles (e.g. for content moderation) https://github.com/tcfev/forDem/issues/57
+- [Organisation's flowchart](https://github.com/tcfev/forDem/blob/main/.images/organisation.md)
+
+- Our Values & principles (e.g. for content moderation) https://github.com/tcfev/forDem/issues/57
 
 # Platforms
 - Android
