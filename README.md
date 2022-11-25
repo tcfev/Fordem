@@ -7,7 +7,7 @@ This is the main organisation place for the three main parts of the forDem platf
 2. Frontend structure: https://github.com/tcfev/fordem-app
 3. Landing page: https://github.com/tcfev/landing-page
 
-- [Organisation's flowchart](https://github.com/tcfev/forDem/blob/main/.images/organisation.md)
+- [Organisation's flowchart](https://github.com/tcfev/forDem/blob/main/.images/organisation.md) - WIP
 
 - Our Values & principles (e.g. for content moderation) https://github.com/tcfev/forDem/issues/57
 
@@ -22,7 +22,7 @@ This is the main organisation place for the three main parts of the forDem platf
 
 # UI Design
 [Figma design](https://www.figma.com/file/VHFRoqXfhc2ThZQMZUXcje/%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%DB%8C%2Ff%C3%BCrDem?node-id=0%3A1)  
-[UX-flowchart](https://github.com/tcfev/forDem/blob/main/.images/ux-flowchart.md)
+[UX-flowchart](https://github.com/tcfev/forDem/blob/main/.images/ux-flowchart.md) - WIP
 
 # Domain model - todo  
   
