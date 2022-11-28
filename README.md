@@ -9,7 +9,7 @@ This repository is where we organise the 3 main components of the platform:
 #
 * [Organisation's flowchart](https://github.com/tcfev/forDem/blob/main/.images/organisation.md) - WIP
 * [Our Values & principles](https://github.com/tcfev/forDem/issues/57)
-* [[rotocols](https://github.com/tcfev/forDem/tree/main/.assets/.protocols)
+* [Protocols](https://github.com/tcfev/forDem/tree/main/.assets/.protocols)
 #
 **Platforms**
 - Android
