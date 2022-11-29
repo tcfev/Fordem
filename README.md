@@ -1,6 +1,7 @@
 # forDem برای مردم‌گردانی
 A censorship-resistant e-Democracy platform  
-Check [`Feature List`](https://github.com/tcfev/forDem/issues/85)
+Check [`Feature List`](https://github.com/tcfev/forDem/issues/85)  
+Want to Join?: [`check here`](https://github.com/tcfev/forDem/issues/61)  & [here](https://github.com/tcfev/forDem/discussions/52)
 #
 This repository is where we organise the 3 main components of the platform:
 * [Backend](https://github.com/tcfev/backend)
