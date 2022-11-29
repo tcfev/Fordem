@@ -32,3 +32,15 @@ This repository is where we organise the 3 main components of the platform:
     * `ISO 13407:1999.`
 - `Suggestion` for design of the system architecture
     * `ISO/IEC 25010:2011, CD 25019.3`
+---
+**e-Democracy platforms and how forDem stands out**  
+
+Every e-Democracy platform must have the following four core functionlities/features fully fledged in it: 
+- `Transparency`
+- `Networking`
+- `Deliberation`
+- `Participation`
+
+**This makes forDem unique:**  
+* Next to the four core pillars mentioned above forDem will offer `peer-to-peer connectivity`, `decentralised storage` & `onion-routing`.
+
