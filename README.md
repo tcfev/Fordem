@@ -4,9 +4,9 @@ Check [`Feature List`](https://github.com/tcfev/forDem/issues/85)
 Want to Join?: [`check here`](https://github.com/tcfev/forDem/issues/61)  & [here](https://github.com/tcfev/forDem/discussions/52)
 #
 This repository is where we organise the 3 main components of the platform:
-* [Backend](https://github.com/tcfev/backend)
+* [Backend](https://github.com/tcfev/fordem-backend)
 * [Mobile App](https://github.com/tcfev/fordem-app)
-* [Website](https://github.com/tcfev/landing-page)
+* [Website](https://github.com/tcfev/fordem-website)
 #
 * [Organisation's flowchart](https://github.com/tcfev/forDem/blob/main/.assets/organisation.md) - WIP
 * [Our Values & principles](https://github.com/tcfev/forDem/issues/57)
