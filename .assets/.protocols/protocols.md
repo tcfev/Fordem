@@ -14,7 +14,7 @@ Needs improvement over GithubLukas talks about Scalabs/Documentation standards*p
 Done via Code reviews @lukas-h offers daily code review & sharing technical opinion
 
 **Architecture of the team**  
-https://github.com/tcfev/forDem/blob/main/.images/organisation.md  
+https://github.com/tcfev/forDem/blob/main/.assets/organisation.md  
 @lukas-h:   
 
 * Decision making is board's
