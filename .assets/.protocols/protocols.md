@@ -26,7 +26,7 @@ IV. Project board is now unified under:[ForDem – Project planning](https://g
 V. @Armantorkzaban will clean up his calendar and offer Flutter coding time-slots - @zanzendegi will assign tasks to him if needed.
 
 
-Actionables: 
+## Actionables: 
 
 * Brand identity meeting has to be held - @drkangl90 will host the meeting and @armantorkzaban will arrange.
     - related issue: [Project Book](https://github.com/tcfev/forDem/issues/80)
