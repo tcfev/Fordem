@@ -1,3 +1,4 @@
+
 # forDem برای مردم‌گردانی
 ## A censorship-resistant e-Democracy platform  
 Check the [`Feature List`](https://github.com/tcfev/forDem/issues/85)  
@@ -49,3 +50,21 @@ Every e-Democracy platform must have the following four core functionlities/feat
 **P2P-DHT & Synchronisiation**  
 
 ![img](https://github.com/tcfev/forDem/blob/main/.assets/forDem-P2P-DHT-Diagramm.drawio.png)
+
+---
+
+## Roadmap
+**internet**
+ - Mastadon compatibility API: A gRPC server written C# with REST extension compatible with Mastadon's REST API
+ - Port/Extend Mastadon's REST API with new features implemented in C# (as a micro service) 
+- Generate Frontend
+	 - Generate client-side API
+	 -  (optional) generate UI for Flutter - just a scaffold. UI Dev can then customize this.
+
+**P2P**
+- Embedd NewNode (Android)
+- Embedd NewNode (iOS)
+- Couple client-side APIs
+
+**synchronization (DHT)** - todo
+
