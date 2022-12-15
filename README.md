@@ -47,10 +47,10 @@ Every e-Democracy platform must have the following four core functionlities/feat
 **This makes forDem unique:**  
 * Next to the four core pillars mentioned above forDem will offer `peer-to-peer connectivity`, `decentralised storage` & `onion-routing`.
 ---
-**P2P-DHT & Synchronization**  
-
-1- P2P mode
-2- Local NoSQL database
+#### P2P, DHT & Synchronization
+Here we have two main parts  
+- P2P mode  
+- Local NoSQL database
 
 Once there is no internet connection available and the app is set to discover mesh networks/other peers, if P2P connection is established the local databases of the adjacent apps will be compared and synchronized.
 This can happen through a comparison of the lists of values of the two databases, and if there is a difference, a union of the differing key:values will be shared between the two apps.
