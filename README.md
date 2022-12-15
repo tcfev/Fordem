@@ -48,17 +48,15 @@ Every e-Democracy platform must have the following four core functionlities/feat
 * Next to the four core pillars mentioned above forDem will offer `peer-to-peer connectivity`, `decentralised storage` & `onion-routing`.
 ---
 #### P2P, DHT & Synchronization
-Here we have two main parts  
-- P2P mode  
-- Local NoSQL database
-
-Once there is no internet connection available (and the app is set to discover mesh networks/other peers), if P2P connection is established, the local databases of the adjacent apps will be compared and synchronized.
-This can happen through a comparison of the lists of keys(UUIDs) of the two databases, and if there is a difference, a union of the differing key:values will be shared between the two apps.
-Goal here is to send as small yet meaningful pieces of data as the Mesh network can handle. Here is the mesh protocol’s specification and situation of the peers, the defining factor. If the network is healthy, the size of the chunk of data that is going to be shared, increases. 
-In version one synchronization takes place between the databases of each two apps (with intermediary nodes or none) that have differing tables. In later version a more efficient method will be chosen.
-One goal here is to regularly check & report the level of synchronicity until the network is stabilized and all the data is available on all apps. However smaller chunks of fully synchronized data(individual entities) are still valuable.
-
-So, long story short, synchronizing the NoSQL databases of peers in the most efficient way is the goal.
+We have two main parts that relate to P2P functionalities
+P2P mode
+Local NoSQL database
+Once there is no internet connection available (and the app is set to discover mesh networks/other peers), if P2P connection is established, the local databases of the adjacent apps will be compared and synchronised. This can happen through a comparison of the lists of keys(UUIDs) of the two databases, and if there is a difference, a union of the differing key:values will be shared between the two apps. Goal here is to send as small yet meaningful pieces of data as the Mesh network can handle.
+Here are the mesh protocol’s specification and situation of the peers, the defining factor.
+If the network is healthy, the size of the chunk of data that is going to be shared, increases.
+In version one synchronisation takes place between the databases of each two apps (with intermediary nodes or without) that have differing tables. In later versions, a more efficient method will be chosen.
+One main goal is to regularly check & report the level of synchronicity until the network is stabilised and all the data is available on all apps. However smaller chunks of fully synchronised data (individual entities) are still valuable.
+So, long story short, synchronising the NoSQL databases of peers in the most efficient way is the goal. 
 
 ![img](https://github.com/tcfev/forDem/blob/main/.assets/forDem-P2P-DHT-Diagramm.drawio.png)
 
