@@ -52,9 +52,9 @@ Here we have two main parts
 - P2P mode  
 - Local NoSQL database
 
-Once there is no internet connection available and the app is set to discover mesh networks/other peers, if P2P connection is established the local databases of the adjacent apps will be compared and synchronized.
+Once there is no internet connection available (and the app is set to discover mesh networks/other peers), if P2P connection is established, the local databases of the adjacent apps will be compared and synchronized.
 This can happen through a comparison of the lists of keys(UUIDs) of the two databases, and if there is a difference, a union of the differing key:values will be shared between the two apps.
-Goal here is to send as small yet meaningful piece of data as the Mesh network can handle. Here is the mesh protocol’s specification, the defining factor. If the network is healthy, the size of the chunk of the data that is going to be shared increases. 
+Goal here is to send as small yet meaningful pieces of data as the Mesh network can handle. Here is the mesh protocol’s specification and situation of the peers, the defining factor. If the network is healthy, the size of the chunk of data that is going to be shared, increases. 
 In version one synchronization takes place between the databases of each two apps (with intermediary nodes or none) that have differing tables. In later version a more efficient method will be chosen.
 One goal here is to regularly check & report the level of synchronicity until the network is stabilized and all the data is available on all apps. However smaller chunks of fully synchronized data(individual entities) are still valuable.
 
