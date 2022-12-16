@@ -1,32 +1,33 @@
-# Protocol | 2. Dec. 2022 | forDem Weekly 
+# Protocol | 16. Dec. 2022 | forDem Weekly 
 
 Present members: 
-@zanzendegi @Lukas-h @Armantorkzaban @drkangl90
+@zanzendegi @Lukas-h @Armantorkzaban
 
 ## Topics: 
-**I** Authentication & Authorization of the backend.
-Connected issue: https://github.com/tcfev/fordem-backend/issues/6
+**I.** Backend progress  
 
-**II** Business Logic & State management in Flutter
-@zanzendegi:
-We need to use vanilla Flutter because maintenance would be easier in the long run.
+- [x] We have all the Mastodon's Entities (Models) ported to C#.
+- [ ] We are in the process of "Proxying" our backend from Mastodon (Currently 61 out of 235 tasks are done).
 
-@Lukas-h: 
-We do not need to use BloC, but we do need to have some sort of pattern for the business logic and state management in order to prevent chaos.
+**II.** Frontend Flutter dev
+MSP team will report about their plan of action regarding the implementation of P2P. If their proposed roadmap is unsatisfactory they will be given the task of implementing Mastodon App in Flutter. 
 
-@zanzendegi @lukas-h will propose the patterns. 
+**III.** Economy
+We discussed Ethereum 2.0 & Cardano as two candidates. 
+Every user will receive a certain amount of currency to spend on Likes
+- By engaging meaningfully in moderation, development, education (to define later), IOW creating value*, users will earn recognition. Recognition can then be translated to more currency. 
 
-**III** We also talked about separate repositories for the proto schemes. 
-Decision: Can be added later. On Flutter side code generation is manual. But, on the backend side we have it automated, therefore we can postpone it to another time.
+**IV.** P2P
+Arman has done the preliminary talks with Clostra & provided them with forDem's design and requirements. Tuesday we will hear back from them. 
 
-- Automate the compilation of the proto-schemes for the Github-actions. 
+**funding** 
+There has not been any changes in the past two weeks and we still run on limited budget.*
 
-**IV** Project board is now unified under:[ForDem – Project planning](https://github.com/orgs/tcfev/projects/7)
 
+Actionables: 
 
-## Actionables: 
-
-* Brand identity meeting has to be held - @drkangl90 will host the meeting and @Armantorkzaban will arrange.
-    - related issue: [Project Book](https://github.com/tcfev/forDem/issues/80)
-    - time-poll: https://dudle.ibr.cs.tu-bs.de/fordem-brand/
-* @Armantorkzaban will clean up his calendar and offer Flutter coding time-slots - @zanzendegi will assign tasks to him if needed.
+- [ ] * Brand identity meeting is going to take place on 18. Dec. 1500 CET room: https://lecture.senfcall.de/fre-5l2-rjl-dmb
+- [ ] finalize the talk with Clostra - todo: @armantorkzaban
+- [ ] The need for Mastodon clone app in vanila Flutter.
+- [ ] *Define value in platform
+- [ ] *Arman will discuss funding with German team as well GIA people.
