@@ -140,7 +140,7 @@ Users of the platform
 
 [Persona 2 - Sonia](https://www.notion.so/Persona-2-Sonia-b9b27abd4e564f8996b71c7003fb9365)
 
-[Persona 3 - Students](https://www.notion.so/Persona-3-Students-98091a8949f34b47a9fdd87dad2d64b6)
+[Persona 3 - Pooyan](https://www.notion.so/Persona-3-Students-98091a8949f34b47a9fdd87dad2d64b6)
 
 Moderators of the platform
 
