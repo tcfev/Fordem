@@ -1,7 +1,7 @@
 
 # forDem برای مردم‌گردانی
 ## A censorship-resistant e-Democracy platform  
-forDem ia an international multi-platform democracy and mobilization platform/app, that respects privacy and is oriented on data security. It is an inter-connected app in the fediverse and beyond, that is supposed to be a central hub for civil society while organizing political action, canalizing social struggles and discussions in society. forDem is there to make the voice of civil society movements heard and maximize their impact.
+forDem ia an international multi-platform democracy and mobilization platform/app, that respects privacy and is oriented on data security. It is an inter-connected app in the fediverse and beyond, that is supposed to be a central hub for civil society while organizing political action, canalizing social struggles and discussions in society. forDem is there to make the voice of civil society movements¹ heard and maximize their impact.
 
 Check the [`Feature List`](https://github.com/tcfev/forDem/issues/85)  
 Want to Join?: [`check here`](https://github.com/tcfev/forDem/issues/61)  & [`this discussion`](https://github.com/tcfev/forDem/discussions/52)  
@@ -80,4 +80,7 @@ So, long story short, synchronising the NoSQL databases of peers in the most eff
 - Couple client-side APIs
 
 **synchronization (DHT)** - todo
+
+
+¹ Concuring with human rights and UN development goals. Also see: [Our Values & principles](https://github.com/tcfev/forDem/issues/57)
 
