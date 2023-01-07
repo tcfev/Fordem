@@ -50,6 +50,10 @@ Every e-Democracy platform must have the following four core functionlities/feat
 **This makes forDem unique:**  
 * Next to the four core pillars mentioned above forDem will offer `peer-to-peer connectivity`, `decentralised storage` & `onion-routing`.
 ---
+#### Platform architecture
+![img](https://github.com/tcfev/forDem/blob/main/.assets/forDem-architecture-I.drawio.png)
+
+---
 #### P2P, DHT & Synchronization
 We have two main parts that relate to P2P functionalities
 P2P mode
