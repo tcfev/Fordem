@@ -86,6 +86,6 @@ So, long story short, synchronising the NoSQL databases of peers in the most eff
 
 **synchronization (DHT)** - todo
 
-
+---
 ¹ Organizations/networks/individuals that are consistant with values around human rights and UN development goals. Also see: [Our Values & principles](https://github.com/tcfev/forDem/issues/57)
 
