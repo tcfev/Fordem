@@ -1,7 +1,7 @@
 
 # forDem برای مردم‌گردانی
 ## A censorship-resistant e-Democracy platform  
-forDem, an abbreviation of ‘for Democracy’, is a cross-platform e-democracy and socio-political mobilization app, with participation, deliberation, and networking functionalities. It forms P2P networks over the internet and ‘WiFi-Direct’ mesh. forDem respects privacy and is oriented on data security. It is an inter-connected app in the ‘Fediverse’ and beyond.  
+forDem, an abbreviation of ‘for Democracy’, is an open source (AGPL v3) cross-platform e-democracy and socio-political mobilization app, with participation, deliberation, and networking functionalities. It forms P2P networks over the internet and ‘WiFi-Direct’ mesh. forDem respects privacy and is oriented on data security. It is an inter-connected app in the ‘Fediverse’ and beyond.  
 The aim of forDem is to be the main channel between social struggles and discussions in societies and it is there to make the voice of civil society movements heard and to maximize their impact.  
   
 To bring the project to life, different actors from across the globe are involved, including tech companies, research institutions, and non-profit organizations.  
