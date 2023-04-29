@@ -85,9 +85,10 @@ So, long story short, synchronising the NoSQL databases of peers in the most eff
 
 **P2P**
 
-- Embedd NewNode (Android)
-- Embedd NewNode (iOS)
+- Embedd [nRF-Mesh-Library-Android](https://github.com/NordicSemiconductor/Android-nRF-Mesh-Library) 
+- Embedd [nRF-Mesh-Library-iOs]() 
 - Couple client-side APIs
+- Implement Local Communication System over Wi-Fi Direct based on [Fuliang Li et al.](https://ieeexplore.ieee.org/document/9011605), António [Teófilo et al.](https://www.researchgate.net/publication/352213057_RedMesh_A_WiFi-Direct_Network_Formation_Algorithm_for_Large-Scale_Scenarios)
 
 **synchronization (DHT)** - todo
 
