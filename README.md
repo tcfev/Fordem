@@ -14,7 +14,7 @@ Want to Join?: [`check here`](https://github.com/tcfev/forDem/issues/61)  & [`th
 [`Project Documentation`](https://github.com/tcfev/forDem-documentation) will help you understand how we organise the project. (Work in progress)
 #
 This repository is where we organise the 3 main components of the platform:
-* [Backend](https://github.com/tcfev/fordem-backend)
+* [Backend](https://github.com/tcfev/nextodon)
 * [Mobile App](https://github.com/tcfev/fordem-app)
 * [Website](https://github.com/tcfev/fordem-website)
 #
