@@ -51,7 +51,7 @@ Every e-Democracy platform must have the following four core functionlities/feat
 - `Participation`
 
 **This makes Fordem unique:**  
-* Next to the four core pillars mentioned above Fordem will offer `peer-to-peer connectivity`, `decentralised storage` & `onion-routing`.
+* Next to the four core pillars mentioned above Fordem will offer `peer-to-peer connectivity`, `decentralised storage`,`onion-routing` & `integrated crypto economy`.
 ---
 #### Platform architecture
 ![img](https://github.com/tcfev/forDem/blob/main/.assets/Fordem%20Architecture-Architecture.drawio.png)
