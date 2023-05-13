@@ -1,12 +1,57 @@
 
 # Fordem | for democracy | برای مردم‌گردانی
 ## A censorship-resistant e-Democracy platform  
-Fordem, an abbreviation of ‘for Democracy’, is an open source (AGPL v3) cross-platform e-democracy and socio-political mobilization app, with participation, deliberation, and networking functionalities. It forms P2P networks over the internet, ‘WiFi-Direct’ & Bluetooth mesh. Fordem respects privacy and is oriented on data security. It is an inter-connected app in the ‘Fediverse’ and beyond.  
-The aim of Fordem is to be the main channel between social struggles and discussions in societies, and it is there to make the voice of civil society movements heard and to maximize their impact.  
   
-To bring the project to life, different actors from across the globe are involved, including tech companies, research institutions, and non-profit organizations.  
+What is Fordem?  
+Fordem, an abbreviation of For Democracy, is an open-source censorship-resistant digital democracy platform. Fordem aims to be the main channel for conversations of resistance and resilience, social struggles and sociopolitical mobilization, and it is there to make the voices of civil society movements heard, and to maximize their impact. It aims to act as a medium to connect civilians on a peer to peer basis, without reliance on centralized networks and the internet, while bringing people together, as a decentralized social network connected to Fediverse, when there is internet connection available.
+Fordem respects privacy and is oriented on data security. 
   
+What can you do with Fordem?  
+You can connect with others based on your shared interests, exchange ideas, initiate or join groups and organize for the changes you want to see in the world. Fordem can connect an endless number of communities.
   
+Fordem short-term goal:  
+Although Fordem is community-agnostic, in our first version we are invested in providing the Iranian political activists the tools they will need at each of the networking, deliberation and participation stages along the ongoing Women, Life, Freedom revolution in Iran.
+  
+The activists will have the possibility to:  
+Identify themselves through a pseudonymisation process done by a trusted third party,
+Create and interactively flesh out their multifaceted profile and connect with people who strive for similar changes as they do,
+Organize events and meetings, deliberate different aspects of the revolution
+Initiate and take part in polls and surveys and figure out the social choice
+Form local mesh wireless networks when internet and electricity is shut down 
+  
+How are we going to do that?  
+Fordem is an open-source platform. At its backend lies Nextodon, an extended version of Mastodon that we’ve written in C# with gRPC, crypto wallet, advanced votes, D2EE DMs and so on. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet, next to usual Mastodon. A DHT on the Nextodon takes care of synchronization between databases of the networks that emerge from offline modes.
+
+
+Development approach and timeline:
+
+
+|Pipeline|version|Description|
+|-	|-	|-									|
+|Line i| V.1 | Mastodon App + Mastodon + Nextodon’s Registration|Authentication features|
+|	|V.1.x| Fordem-specific features on top of Mastodon App + backend as above	|
+| Line ii|V.2x|Feature-complete Fordem Flutter App + feature-complete Nextodon		|
+
+2023 Timeline:  
+plug our registration method and forward app registrations via nginx rules  
+May 15, 2023  
+Release with Mastodon App + Mastodon + Nextodon’s Registration|Authentication features  
+Aug 1, 2023  
+enable Ethereum transaction  
+enable ranked-pairs voting  
+enable Twitter authentication  
+Sep 1, 2023  
+Finish integration of  Zemi(Map)  
+Nov 1, 2023  
+release Fordem Flutter app  
+enable offline mode (mesh network)
+  
+How can you support?
+There are three ways in which you can support Fordem:  
+- You can donate money here: liberapay.com/tcfev, with which we can pay our developers.
+- You can donate expertise and come and join us, and help with marketing, design, fundraising, project management experience and/or spreading good energy and love. 
+- You can donate your time and opinion and test Fordem as soon as the first version is out and give us your honest and constructive feedback.
+    
 Check the [`Feature List`](https://github.com/tcfev/forDem/issues/85)  
 Want to Join?: [`check here`](https://github.com/tcfev/forDem/issues/61)  & [`this discussion`](https://github.com/tcfev/forDem/discussions/52)  
 `In case you have privacy concerns, create a new Github account first and then write to us or engage in discussions.`  
