@@ -2,28 +2,28 @@
 # Fordem | for democracy | برای مردم‌گردانی
 ## A censorship-resistant e-Democracy platform  
   
-What is Fordem?  
-Fordem, an abbreviation of For Democracy, is an open-source censorship-resistant digital democracy platform. Fordem aims to be the main channel for conversations of resistance and resilience, social struggles and sociopolitical mobilization, and it is there to make the voices of civil society movements heard, and to maximize their impact. It aims to act as a medium to connect civilians on a peer to peer basis, without reliance on centralized networks and the internet, while bringing people together, as a decentralized social network connected to Fediverse, when there is internet connection available.
-Fordem respects privacy and is oriented on data security. 
+**What is Fordem?**  
+Fordem, an abbreviation of ‘for democracy’, is a cross-platform digital democracy and socio-political mobilization platform, with participation, deliberation, and networking functionalities. It forms independent WiFi-Direct & Bluetooth mesh networks when the internet and cellular networks are down, respects privacy and is oriented on data security. Fordem is a part of Fediverse.
+Fordem aims to be the main channel for conversations of resistance and resilience, social struggles and sociopolitical mobilization, and it is there to make the voices of civil society movements heard and to maximize their impact.   
   
-What can you do with Fordem?  
+**What can you do with Fordem?**  
 You can connect with others based on your shared interests, exchange ideas, initiate or join groups and organize for the changes you want to see in the world. Fordem can connect an endless number of communities.
   
-Fordem short-term goal:  
+**Fordem short-term goal:**  
 Although Fordem is community-agnostic, in our first version we are invested in providing the Iranian political activists the tools they will need at each of the networking, deliberation and participation stages along the ongoing Women, Life, Freedom revolution in Iran.
   
-The activists will have the possibility to:  
+**The activists will have the possibility to:**  
 Identify themselves through a pseudonymisation process done by a trusted third party,
 Create and interactively flesh out their multifaceted profile and connect with people who strive for similar changes as they do,
 Organize events and meetings, deliberate different aspects of the revolution
 Initiate and take part in polls and surveys and figure out the social choice
 Form local mesh wireless networks when internet and electricity is shut down 
   
-How are we going to do that?  
+**How are we going to do that?**  
 Fordem is an open-source platform. At its backend lies Nextodon, an extended version of Mastodon that we’ve written in C# with gRPC, crypto wallet, advanced votes, D2EE DMs and so on. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet, next to usual Mastodon. A DHT on the Nextodon takes care of synchronization between databases of the networks that emerge from offline modes.
 
 
-Development approach and timeline:
+**Development approach and timeline:**
 
 
 |Pipeline|version|Description|
@@ -32,19 +32,24 @@ Development approach and timeline:
 |	|V.1.x| Fordem-specific features on top of Mastodon App + backend as above	|
 | Line ii|V.2x|Feature-complete Fordem Flutter App + feature-complete Nextodon		|
 
-2023 Timeline:  
-plug our registration method and forward app registrations via nginx rules  
-May 15, 2023  
-Release with Mastodon App + Mastodon + Nextodon’s Registration|Authentication features  
+**2023 Timeline:**  
+May 30, 2023  
+Release will include Nextodon  
+Nextodon’s Registration | Authentication features (Mnemonic phrases & crypto wallets)   
+Basic Digital democracy functionalities  
 Aug 1, 2023  
-enable Ethereum transaction  
-enable ranked-pairs voting  
+enable Ethereum wallet  
+enable ranked-pairs, quadratic/fractional voting systems  
 enable Twitter authentication  
 Sep 1, 2023  
-Finish integration of  Zemi(Map)  
-Nov 1, 2023  
+integration of  Zemi - GIS  
+deliberation processes & instance as a service  
+Questionnaires & assisted networking  
+Nov 30, 2023  
 release Fordem Flutter app  
-enable offline mode (mesh network)
+enable mesh network formation features  
+Audio rooms  
+
   
 How can you support?
 There are three ways in which you can support Fordem:  
