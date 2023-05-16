@@ -66,7 +66,7 @@ This repository deals with documentation and issue tracking of the 2 main compon
 * [Nextodon](https://github.com/tcfev/nextodon)
 * [Fordem App](https://github.com/tcfev/fordem-app)
 #
-* [Organisation's flowchart](https://github.com/tcfev/fordem/blob/main/.assets/organisation.md) - work-in-progress
+* [Organisation & Component Overview](https://github.com/tcfev/fordem/blob/main/.assets/organisation.md) - work-in-progress
 * [Our Values & principles](https://github.com/tcfev/fordem/issues/57)
 * [Protocols](https://github.com/tcfev/fordem/tree/main/.assets/.protocols)
 #
