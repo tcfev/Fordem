@@ -104,7 +104,7 @@ Every e-Democracy platform must have the following four core functionlities/feat
 * Next to the four core pillars mentioned above Fordem will offer `peer-to-peer connectivity`, `decentralised storage`,`onion-routing` & `integrated crypto economy`.
 ---
 #### Platform architecture
-![img](https://github.com/tcfev/forDem/blob/main/.assets/Fordem%20Architecture-Architecture.drawio.png)
+![img](https://github.com/tcfev/Fordem/blob/main/.assets/Fordem-Architecture-Architecture.drawio.png)
 
 ---
 #### P2P, DHT & Synchronization
