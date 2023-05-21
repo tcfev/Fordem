@@ -3,24 +3,21 @@
 ## A censorship-resistant e-Democracy platform  
   
 **What is Fordem?**  
-Fordem, an abbreviation of ‘for democracy’, is a cross-platform digital democracy and socio-political mobilization platform, with participation, deliberation, and networking functionalities. It forms independent WiFi-Direct & Bluetooth mesh networks when the internet and cellular networks are down, respects privacy and is oriented on data security. Fordem is a part of Fediverse.
-Fordem aims to be the main channel for conversations of resistance and resilience, social struggles and sociopolitical mobilization, and it is there to make the voices of civil society movements heard and to maximize their impact.   
+Fordem (‘for democracy’) is a cross-platform digital democracy and socio-political mobilisation platform, with participation, deliberation, and networking functionalities. It forms independent WiFi-Direct & Bluetooth mesh networks when the internet and cellular networks are down, respects privacy and is oriented on data security. Fordem is a part of Fediverse and aims to be the main channel for conversations of resistance and resilience, social struggles and sociopolitical mobilisation. It is there to make the voices of civil society movements heard and maximise their impact.  
   
 **What can you do with Fordem?**  
-You can connect with others based on your shared interests, exchange ideas, initiate or join groups and organize for the changes you want to see in the world. Fordem can connect an endless number of communities.
+You can connect with others based on your shared interests, exchange ideas, initiate or join groups and organise for the changes you want to see in the world. Fordem can help the development of any community since it can be adapted to the respective needs and contexts. It can connect an endless number of communities. In our first version we are invested in providing Iranian political activists the tools they need at each of the networking, deliberation and participation stages of their mobilisation along the ongoing Women, Life, Freedom revolution. 
   
-**Fordem short-term goal:**  
-Although Fordem is community-agnostic, in our first version we are invested in providing the Iranian political activists the tools they will need at each of the networking, deliberation and participation stages along the ongoing Women, Life, Freedom revolution in Iran.
-  
-**The activists will have the possibility to:**  
-Identify themselves through a pseudonymisation process done by a trusted third party,
-Create and interactively flesh out their multifaceted profile and connect with people who strive for similar changes as they do,
-Organize events and meetings, deliberate different aspects of the revolution
-Initiate and take part in polls and surveys and figure out the social choice
-Form local mesh wireless networks when internet and electricity is shut down 
+**Possibilities:**  
+Pseudonymisation process done by trusted third parties  
+Create a multidimensional interest vector and connect with people based on that  
+Event & meeting organisation and deliberation spaces  
+Unlimited polls, surveys and advanced calculation of social choice  
+Large-scale mesh network formation when internet and electricity is shut down. 
+
   
 **How are we going to do that?**  
-Fordem is an open-source platform. At its backend lies Nextodon, an extended version of Mastodon that we’ve written in C# with gRPC, crypto wallet, advanced votes, D2EE DMs and so on. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet, next to usual Mastodon. A DHT on the Nextodon takes care of synchronization between databases of the networks that emerge from offline modes.
+Fordem is open-source and it builds on top of existing solutions. At its backend lies Nextodon, an extended version of Mastodon that we’ve written in C# with gRPC, with crypto wallet, advanced voting systems, D2EE DMs and other special features. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet and no cellular network, next to usual Mastodon app. A DHT on the Nextodon takes care of synchronisation between databases of the networks that emerge from offline modes.
 
 
 **Development approach and timeline:**
@@ -52,10 +49,12 @@ Audio rooms
 
   
 How can you support?
-There are three ways in which you can support Fordem:  
-- You can donate money here: liberapay.com/tcfev, with which we can pay our developers.
-- You can donate expertise and come and join us, and help with marketing, design, fundraising, project management experience and/or spreading good energy and love. 
-- You can donate your time and opinion and test Fordem as soon as the first version is out and give us your honest and constructive feedback.
+You can donate money here in betterplace with which we can pay our developers.  
+You can donate expertise and come join us, and help with your marketing, design, fundraising, project management experience and/or spreading good energy and love. 
+You can donate your time, and test Fordem as soon as the prototype version has been released.  
+You give us your honest and constructive feedback. 
+Get in touch with us here: fordem@transcf.org  
+
     
 Check the [`Feature List`](https://github.com/tcfev/forDem/issues/85)  
 Want to Join?: [`check here`](https://github.com/tcfev/forDem/issues/61)  & [`this discussion`](https://github.com/tcfev/forDem/discussions/52)  
@@ -66,18 +65,15 @@ This repository deals with documentation and issue tracking of the 2 main compon
 * [Nextodon](https://github.com/tcfev/nextodon)
 * [Fordem App](https://github.com/tcfev/fordem-app)
 #
-* [Organisation & Component Overview](https://github.com/tcfev/fordem/blob/main/.assets/organisation.md) - work-in-progress
+* [Organisation & Component Overview](https://github.com/tcfev/fordem/blob/main/.assets/organisation.md)
 * [Our Values & principles](https://github.com/tcfev/fordem/issues/57)
 * [Protocols](https://github.com/tcfev/fordem/tree/main/.assets/.protocols)
 #
 **Platforms**
-- Android
-- iOS
-- Web
-- Linux, Windows and MacOS
+- Android, iOS, Web, Linux, Windows and MacOS
 #
 **Connected APIs**
-- ActivityPub (Compatible with the Fediverse)
+- Part of Fediverse
 #
 **UI Design**  
 * [Figma design](https://www.figma.com/file/VHFRoqXfhc2ThZQMZUXcje/%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%DB%8C%2Ff%C3%BCrDem?node-id=0%3A1)  
