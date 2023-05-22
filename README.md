@@ -66,6 +66,8 @@ This repository deals with documentation and issue tracking of the 2 main compon
 * [Fordem App](https://github.com/tcfev/fordem-app)
 #
 * [Organisation & Component Overview](https://github.com/tcfev/fordem/blob/main/.assets/organisation.md)
+	* Big picture (in Persian)
+![Alt](.assets/big-picture-per.drawio.png)
 * [Our Values & principles](https://github.com/tcfev/fordem/issues/57)
 * [Protocols](https://github.com/tcfev/fordem/tree/main/.assets/.protocols)
 #
