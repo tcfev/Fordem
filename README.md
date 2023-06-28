@@ -56,10 +56,10 @@ You give us your honest and constructive feedback.
 Get in touch with us here: fordem@transcf.org  
 
     
-Check the [`Feature List`](https://github.com/tcfev/forDem/issues/85)  
-Want to Join?: [`check here`](https://github.com/tcfev/forDem/issues/61)  & [`this discussion`](https://github.com/tcfev/forDem/discussions/52)  
+Check the [`Feature List`](https://github.com/tcfev/Fordem/issues/85)  
+Want to Join?: [`check here`](https://github.com/tcfev/Fordem/issues/61)  & [`this discussion`](https://github.com/tcfev/Fordem/discussions/52)  
 `In case you have privacy concerns, create a new Github account first and then write to us or engage in discussions.`  
-[`Project Documentation`](https://github.com/tcfev/forDem-documentation) will help you understand how we organise the project. (Work in progress)
+[`Project Documentation`](https://github.com/tcfev/Fordem-documentation) will help you understand how we organise the project. (Work in progress)
 #
 This repository deals with documentation and issue tracking of the 2 main components of the platform:
 * [Nextodon](https://github.com/tcfev/nextodon)
@@ -79,8 +79,8 @@ This repository deals with documentation and issue tracking of the 2 main compon
 #
 **UI Design**  
 * [Figma design](https://www.figma.com/file/VHFRoqXfhc2ThZQMZUXcje/%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%DB%8C%2Ff%C3%BCrDem?node-id=0%3A1)  
-* [UX-flowchart](https://github.com/tcfev/forDem/blob/main/.assets/ux-flowchart.md) - work-in-progress
-* [Brand-identity](https://github.com/tcfev/forDem/blob/main/.assets/brand-identity.md) - work-in-progress  
+* [UX-flowchart](https://github.com/tcfev/Fordem/blob/main/.assets/ux-flowchart.md) - work-in-progress
+* [Brand-identity](https://github.com/tcfev/Fordem/blob/main/.assets/brand-identity.md) - work-in-progress  
 #
 **Domain model - todo**  
 #
@@ -117,7 +117,7 @@ In version one synchronisation takes place between the databases of each two app
 One main goal is to regularly check & report the level of synchronicity until the network is stabilised and all the data is available on all apps. However smaller chunks of fully synchronised data (individual entities) are still valuable.  
 So, long story short, synchronising the NoSQL databases of the peers in the most efficient way is the goal.
   
-![img](https://github.com/tcfev/forDem/blob/main/.assets/forDem-P2P-DHT-Diagramm.drawio.png)
+![img](https://github.com/tcfev/Fordem/blob/main/.assets/Fordem-P2P-DHT-Diagramm.drawio.png)
 
 ---
 
@@ -138,5 +138,5 @@ So, long story short, synchronising the NoSQL databases of the peers in the most
 **Synchronization (DHT)** - todo
 
 ---
-¹ Organizations/networks/individuals that are consistant with values around human rights and UN development goals. Also see: [Our Values & principles](https://github.com/tcfev/forDem/issues/57)
+¹ Organizations/networks/individuals that are consistant with values around human rights and UN development goals. Also see: [Our Values & principles](https://github.com/tcfev/Fordem/issues/57)
 

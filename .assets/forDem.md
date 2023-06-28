@@ -1,3 +1,3 @@
-https://app.diagrams.net/#Htcfev%2FforDem%2Fmain%2F.images%2FforDem-architecture-I.drawio.png
+https://app.diagrams.net/#Htcfev%2FFordem%2Fmain%2F.images%2FFordem-architecture-I.drawio.png
 
-![Alt](./forDem-architecture-I.drawio.png)
+![Alt](./Fordem-architecture-I.drawio.png)

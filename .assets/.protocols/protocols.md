@@ -1,4 +1,4 @@
-# Protocol | 16. Dec. 2022 | forDem Weekly 
+# Protocol | 16. Dec. 2022 | Fordem Weekly 
 
 Present members: 
 @zanzendegi @Lukas-h @Armantorkzaban
@@ -18,7 +18,7 @@ Every user will receive a certain amount of currency to spend on Likes
 - By engaging meaningfully in moderation, development, education (to define later), IOW creating value*, users will earn recognition. Recognition can then be translated to more currency. 
 
 **IV.** P2P
-Arman has done the preliminary talks with Clostra & provided them with forDem's design and requirements. Tuesday we will hear back from them. 
+Arman has done the preliminary talks with Clostra & provided them with Fordem's design and requirements. Tuesday we will hear back from them. 
 
 **funding** 
 There has not been any changes in the past two weeks and we still run on limited budget.*
