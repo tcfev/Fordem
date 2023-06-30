@@ -1,6 +1,6 @@
 
 # Fordem | for democracy | برای مردم‌گردانی
-## A censorship-resistant e-Democracy platform  
+## A censorship-resistant digital democracy platform  
   
 **What is Fordem?**  
 Fordem (‘for democracy’) is a cross-platform digital democracy and socio-political mobilisation platform, with participation, deliberation, and networking functionalities. It forms independent WiFi-Direct & Bluetooth mesh networks when the internet and cellular networks are down, respects privacy and is oriented on data security. Fordem is a part of Fediverse and aims to be the main channel for conversations of resistance and resilience, social struggles and sociopolitical mobilisation. It is there to make the voices of civil society movements heard and maximise their impact.  
