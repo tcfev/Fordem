@@ -1,24 +1,28 @@
 
 # Fordem | for democracy | برای مردم‌گردانی
-## A censorship-resistant digital democracy platform  
+## A censorship-resistant digital emocracy platform  
   
 **What is Fordem?**  
-Fordem (‘for democracy’) is a cross-platform digital democracy and socio-political mobilisation platform, with participation, deliberation, and networking functionalities. It forms independent WiFi-Direct & Bluetooth mesh networks when the internet and cellular networks are down, respects privacy and is oriented on data security. Fordem is a part of Fediverse and aims to be the main channel for conversations of resistance and resilience, social struggles and sociopolitical mobilisation. It is there to make the voices of civil society movements heard and maximise their impact.  
+Fordem, an abbreviation of ‘for democracy’, is a digital democracy and socio-political mobilisation platform, with participation, deliberation, and networking functionalities.  
+Fordem app (WIP) forms independent WiFi-Direct & Bluetooth mesh networks when the internet and cellular networks are down, respects privacy and is oriented on data security. Fordem is a part of Fediverse and can be used as app on your smartphone or as desktop-client. Fordem aims to be the main channel for networking and conversations of resistance and resilience, social struggles and sociopolitical mobilisation, and it is there to make the voices of civil society movements heard and to maximise their impact.
   
-**What can you do with Fordem?**  
-You can connect with others based on your shared interests, exchange ideas, initiate or join groups and organise for the changes you want to see in the world. Fordem can help the development of any community since it can be adapted to the respective needs and contexts. It can connect an endless number of communities. In our first version we are invested in providing Iranian political activists the tools they need at each of the networking, deliberation and participation stages of their mobilisation along the ongoing Women, Life, Freedom revolution. 
-  
-**Possibilities:**  
-Pseudonymisation process done by trusted third parties  
-Create a multidimensional interest vector and connect with people based on that  
-Event & meeting organisation and deliberation spaces  
-Unlimited polls, surveys and advanced calculation of social choice  
-Large-scale mesh network formation when internet and electricity is shut down. 
+**Who is behind the project?**
+We are the developers of this censorship-resistant sociopolitical network. Our volunteer team is transnational, heterarchical and committed to human rights and fundamental freedoms. We met in a hackathon of Update Deutschland and joined forces and expanded globally because we were working on similar ideas. Organizationally, Fordem is a project of Transnational Community Federation e. V. (TCF). TCF is a non-profit, not-governmental heterarchical civic innovation Lab. With our interdisciplinary approach, we bring about positive changes in our communities around the world. We are active in various fields including promotion of education, democratic systems, and demarginalization. For more information check www.transcf.org 
 
+**Fordem short-term goal:**  
+Fordem is a tool which can help the development of any community since it can be adapted to the respective needs and contexts. In our first version we are invested in providing the Iranian political activists the tools they will need at each of the networking, deliberation and participation stages of their mobilisation along the ongoing Women, Life, Freedom revolution in Iran.  
+Furthermore, we are invested in implementing Fordem in communities with a democratic gap in Germany. Our focus is on Heilbronn, a city with more than 54% of the population having (family) experiences with migration but form only 5% of the members of the municipal council. In the long term Fordem has the potential to be the tool for any community worldwide and connect an endless number of communities with each other. In this sense it can strengthen local communities while connecting them with the world. 
   
 **How are we going to do that?**  
-Fordem is open-source and it builds on top of existing solutions. At its backend lies Nextodon, an extended version of Mastodon that we’ve written in C# with gRPC, with crypto wallet, advanced voting systems, D2EE DMs and other special features. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet and no cellular network, next to usual Mastodon app. A DHT on the Nextodon takes care of synchronisation between databases of the networks that emerge from offline modes.
-
+Fordem is an open-source platform. At its backend lies Nextodon, an extended version of Mastodon that we have written in C# with gRPC, crypto wallet, advanced votes, D2EE DMs and so on. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet, next to usual Mastodon. A DHT on the Nextodon takes care of synchronisation between databases of the networks that emerge from offline modes. 
+  
+**Activists will have the possibility to:**  
+- Identify themselves through a pseudonymisation process done by a trusted third party  
+- Create and interactively flesh out their multifaceted profile and connect with people who strive for similar changes as they do  
+- Organise events and meetings  
+- Deliberate different aspects of the revolution Initiate and take part in polls and surveys and figure out the social choice  
+- Form local mesh wireless networks when internet and electricity is shut down  
+  
 
 **Development approach and timeline:**
 
@@ -30,30 +34,27 @@ Fordem is open-source and it builds on top of existing solutions. At its backend
 | Line ii|V.2x|Feature-complete Fordem Flutter App + feature-complete Nextodon		|
 
 **2023 Timeline:**  
-May 30, 2023  
+2023 Timeline:  
+June 30, 2023  
 Release will include Nextodon  
-Nextodon’s Registration | Authentication features (Mnemonic phrases & crypto wallets)   
+Nextodon’s Registration | Authentication features (Mnemonic phrases & crypto wallets)  
 Basic Digital democracy functionalities  
-Aug 1, 2023  
+  
+Aug 28, 2023  
 enable Ethereum wallet  
 enable ranked-pairs, quadratic/fractional voting systems  
 enable Twitter authentication  
-Sep 1, 2023  
-integration of  Zemi - GIS  
+  
+Sep 31, 2023  
+integration of Zemi - GIS  
 deliberation processes & instance as a service  
 Questionnaires & assisted networking  
+  
 Nov 30, 2023  
 release Fordem Flutter app  
 enable mesh network formation features  
 Audio rooms  
 
-  
-How can you support?
-You can donate money here in betterplace with which we can pay our developers.  
-You can donate expertise and come join us, and help with your marketing, design, fundraising, project management experience and/or spreading good energy and love. 
-You can donate your time, and test Fordem as soon as the prototype version has been released.  
-You give us your honest and constructive feedback. 
-Get in touch with us here: fordem@transcf.org  
 
     
 Check the [`Feature List`](https://github.com/tcfev/Fordem/issues/85)  
@@ -90,16 +91,16 @@ This repository deals with documentation and issue tracking of the 2 main compon
 - `Suggestion` for design of the system architecture
     * `ISO/IEC 25010:2011, CD 25019.3`
 ---
-**e-Democracy platforms and how Fordem stands out**  
+** Digital democracy platforms and how Fordem stands out**  
 
-Every e-Democracy platform must have the following four core functionlities/features fully fledged in it: 
+Every digital democracy platform must have the following four core functionlities/features fully fledged in it: 
 - `Transparency`
 - `Networking`
 - `Deliberation`
 - `Participation`
 
 **This makes Fordem unique:**  
-* Next to the four core pillars mentioned above Fordem will offer `peer-to-peer connectivity`, `decentralised storage`,`onion-routing` & `integrated crypto economy`.
+* Next to the four core pillars mentioned above Fordem will offer `interest vector`, `official, acquaintanceship and reputation-based pseudonymisation`  `peer-to-peer connectivity`, `decentralised storage`,`onion-routing` & `integrated crypto economy`.
 ---
 #### Platform architecture
 ![img](https://github.com/tcfev/Fordem/blob/main/.assets/Fordem-Architecture-Architecture.drawio.png)
@@ -125,7 +126,7 @@ So, long story short, synchronising the NoSQL databases of the peers in the most
 **internet**
  - [x] Mastadon compatibility API: A gRPC server written C# with REST extension compatible with Mastadon's REST API
  - [x] Port & Extend Mastadon's REST API with new features implemented in C# (as a micro service) 
- - Generate Frontend - work-in-progress
+ - [x] Generate Frontend -[Nextodon-ui](https://github.com/tcfev/nextodon-ui) & [Nextodon-ui](https://github.com/tcfev/nextodon-UI-old)
 	 - Generate client-side API
 	 - Develop UI for the Flutter App - just a scaffold. other UI Devs can then customize this.
 
