@@ -7,9 +7,9 @@ Fordem, an abbreviation of ‘for democracy’, is a digital democracy and socio
 Fordem app (WIP) forms independent WiFi-Direct & Bluetooth mesh networks when the internet and cellular networks are down, respects privacy and is oriented on data security. Fordem is a part of Fediverse and can be used as app on your smartphone or as desktop-client. Fordem aims to be the main channel for networking and conversations of resistance and resilience, social struggles and sociopolitical mobilisation, and it is there to make the voices of civil society movements heard and to maximise their impact.
   
 **Who is behind the project?**
-We are the developers of this censorship-resistant sociopolitical network. Our volunteer team is transnational, heterarchical and committed to human rights and fundamental freedoms. We met in a hackathon of Update Deutschland and joined forces and expanded globally because we were working on similar ideas. Organizationally, Fordem is a project of Transnational Community Federation e. V. (TCF). TCF is a non-profit, not-governmental heterarchical civic innovation Lab. With our interdisciplinary approach, we bring about positive changes in our communities around the world. We are active in various fields including promotion of education, democratic systems, and demarginalization. For more information check www.transcf.org 
+We are the developers of this censorship-resistant sociopolitical network. Our volunteer team is transnational, heterarchical and committed to human rights and fundamental freedoms. We met in a hackathon of Update Deutschland and joined forces and expanded globally because we were working on similar ideas. Organizationally, Fordem is a project of Transnational Community Federation e. V. (TCF). TCF is a non-profit, not-governmental heterarchical civic innovation Lab. With our interdisciplinary approach, we bring about positive changes in our communities around the world. We are active in various fields including promotion of education, democratic systems, and demarginalization. For more information check https://transcf.org 
 
-**Fordem short-term goal:**  
+**Fordem short-term goals:**  
 Fordem is a tool which can help the development of any community since it can be adapted to the respective needs and contexts. In our first version we are invested in providing the Iranian political activists the tools they will need at each of the networking, deliberation and participation stages of their mobilisation along the ongoing Women, Life, Freedom revolution in Iran.  
 Furthermore, we are invested in implementing Fordem in communities with a democratic gap in Germany. Our focus is on Heilbronn, a city with more than 54% of the population having (family) experiences with migration but form only 5% of the members of the municipal council. In the long term Fordem has the potential to be the tool for any community worldwide and connect an endless number of communities with each other. In this sense it can strengthen local communities while connecting them with the world. 
   
@@ -34,7 +34,6 @@ Fordem is an open-source platform. At its backend lies Nextodon, an extended ver
 | Line ii|V.2x|Feature-complete Fordem Flutter App + feature-complete Nextodon		|
 
 **2023 Timeline:**  
-2023 Timeline:  
 June 30, 2023  
 Release will include Nextodon  
 Nextodon’s Registration | Authentication features (Mnemonic phrases & crypto wallets)  
