@@ -100,7 +100,13 @@ Every digital democracy platform must have the following four core functionlitie
 - `Participation`
 
 **This makes Fordem unique:**  
-* Next to the four core pillars mentioned above Fordem will offer `interest vector`, `official, acquaintanceship and reputation-based pseudonymisation`  `peer-to-peer connectivity`, `decentralised storage`,`onion-routing` & `integrated crypto economy`.
+* Next to the four core pillars mentioned above Fordem will offer:  
+- `interest vector`
+- `official, acquaintanceship and reputation-based pseudonymisation`  
+- `peer-to-peer connectivity`  
+- `decentralised storage`
+- `onion-routing`
+- `integrated crypto economy`
 ---
 #### Platform architecture
 ![img](https://github.com/tcfev/Fordem/blob/main/.assets/Fordem-Architecture-Architecture.drawio.png)
