@@ -1,5 +1,5 @@
 
-# Brand Strategy Session - ForDem
+# Brand Strategy Session - Fordem
 
 GOAL
 
@@ -38,7 +38,7 @@ Education about basic rights in different languages available to different ages.
 - How they got into doing it?
     - Team members have either been highly aware of what is going on in Iran, while others have personal experience and would like to see change.
 - Who else is doing it? How are they different?
-    - there are a number who are doing something similar, but ForDem is focusing on decentralization and peer-2-peer connections, simplification of networking AI allowing users to connect with users with similar interests. Allow easy connections that are related to your interests in various categories. Everyone who joins the network is able the join the legal entity and have a say in how the platform evolves. Economy where if a for-profit entity uses content from the platform, the money produced using that content would mainly go back to the uses who created that content with 10% going to the platform for moderation.
+    - there are a number who are doing something similar, but Fordem is focusing on decentralization and peer-2-peer connections, simplification of networking AI allowing users to connect with users with similar interests. Allow easy connections that are related to your interests in various categories. Everyone who joins the network is able the join the legal entity and have a say in how the platform evolves. Economy where if a for-profit entity uses content from the platform, the money produced using that content would mainly go back to the uses who created that content with 10% going to the platform for moderation.
 - Why are they doing it?
     - ***Would like to make a better world and to make a better world we need to find a collective truth. Create something sustainable collectively.***
 
@@ -114,7 +114,7 @@ Harley Davidson is
 
 **When:** in an era of decreasing personal freedom
 
-### ForDem is
+### Fordem is
 
 the only censorship resistant e-democracy platform
 
