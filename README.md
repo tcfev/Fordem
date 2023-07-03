@@ -14,7 +14,7 @@ Fordem is a tool which can help the development of any community since it can be
 Furthermore, we are invested in implementing Fordem in communities with a democratic gap in Germany. Our focus is on Heilbronn, a city with more than 54% of the population having (family) experiences with migration but form only 5% of the members of the municipal council. In the long term Fordem has the potential to be the tool for any community worldwide and connect an endless number of communities with each other. In this sense it can strengthen local communities while connecting them with the world. 
   
 **How are we going to do that?**  
-Fordem is an open-source platform. At its backend lies Nextodon, an extended version of Mastodon that we have written in C# with gRPC, crypto wallet, advanced votes, D2EE DMs and so on. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet, next to usual Mastodon. A DHT on the Nextodon takes care of synchronisation between databases of the networks that emerge from offline modes. 
+Fordem is an open-source platform. At its backend lies Nextodon, an extended version of Mastodon that we have written in C# with gRPC, crypto wallet, advanced votes, E2EE DMs and so on. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet, next to usual Mastodon. A DHT on the Nextodon takes care of synchronisation between databases of the networks that emerge from offline modes. 
   
 **Activists will have the possibility to:**  
 - Identify themselves through a pseudonymisation process done by a trusted third party  
