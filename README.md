@@ -16,7 +16,7 @@ Furthermore, we are invested in implementing Fordem in communities with a democr
 **How are we going to do that?**  
 Fordem is an open-source platform. At its backend lies Nextodon, an extended version of Mastodon that we have written in C# with gRPC, crypto wallet, advanced votes, E2EE DMs and so on. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet, next to usual Mastodon. A DHT on the Nextodon takes care of synchronisation between databases of the networks that emerge from offline modes. 
   
-**Activists will have the possibility to:**  
+**Activists will have the possibility to:**
 - Identify themselves through a pseudonymisation process done by a trusted third party  
 - Create and interactively flesh out their multifaceted profile and connect with people who strive for similar changes as they do  
 - Organise events and meetings  
