@@ -23,6 +23,10 @@ Fordem is an open-source platform. At its backend lies Nextodon, an extended ver
 - Deliberate different aspects of the revolution Initiate and take part in polls and surveys and figure out the social choice  
 - Form local mesh wireless networks when internet and electricity is shut down  
   
+**Data**  
+Fordem is part of the Fediverse, and data is not just going to stay in one place. 
+Private data (only private chat for now) will be encrypted and visible only to the users.  
+We do not keep IP information, and TCF e. V. will protect the entire operations according to GDPR,.
 
 **Development approach and timeline:**
 
@@ -104,12 +108,6 @@ Every digital democracy platform must have the following four core functionlitie
 - `decentralised storage`
 - `onion-routing`
 - `integrated crypto economy`
-
-
-**Data**  
-Fordem is part of the Fediverse, and data is not just going to stay in one place. 
-Private data (only private chat for now) will be encrypted and visible only to the users.  
-We do not keep IP information, and TCF e. V. will protect the entire operations according to GDPR,.
 
 ---
 #### Platform architecture
