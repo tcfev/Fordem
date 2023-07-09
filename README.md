@@ -53,12 +53,6 @@ Nov 30, 2023
 release Fordem Flutter app  
 enable mesh network formation features  
 Audio rooms  
-
-**Data**  
-Fordem is part of the Fediverse, and data is not just going to stay in one place. 
-Private data (only private chat for now) will be encrypted and visible only to the users.  
-We do not keep IP information, and TCF e. V. will protect the entire operations according to GDPR,.
-
     
 Check the [`Feature List`](https://github.com/tcfev/Fordem/issues/85)  
 Want to Join?: [`check here`](https://github.com/tcfev/Fordem/issues/61)  & [`this discussion`](https://github.com/tcfev/Fordem/discussions/52)  
@@ -110,6 +104,13 @@ Every digital democracy platform must have the following four core functionlitie
 - `decentralised storage`
 - `onion-routing`
 - `integrated crypto economy`
+
+
+**Data**  
+Fordem is part of the Fediverse, and data is not just going to stay in one place. 
+Private data (only private chat for now) will be encrypted and visible only to the users.  
+We do not keep IP information, and TCF e. V. will protect the entire operations according to GDPR,.
+
 ---
 #### Platform architecture
 ![img](https://github.com/tcfev/Fordem/blob/main/.assets/Fordem-Architecture-Architecture.drawio.png)
