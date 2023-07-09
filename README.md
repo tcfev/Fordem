@@ -54,7 +54,7 @@ release Fordem Flutter app
 enable mesh network formation features  
 Audio rooms  
 
-**Data**
+**Data**  
 Fordem is part of the Fediverse, and data is not just going to stay in one place. 
 Private data (only private chat for now) will be encrypted and visible only to the users.  
 We do not keep IP information, and TCF e. V. will protect the entire operations according to GDPR,.
