@@ -33,7 +33,32 @@ Fordem is an open-source platform. At its backend lies Nextodon, an extended ver
 |	|V.1.x| Fordem-specific features on top of Mastodon App + backend as above	|
 | Line ii|V.2x|Feature-complete Fordem Flutter App + feature-complete Nextodon		|
 
-**2023 Timeline:**  https://github.com/tcfev/Fordem/issues/168
+**2023 Timeline:**  
+June 30, 2023  
+Release will include Nextodon  
+Nextodon’s Registration | Authentication features (Mnemonic phrases & crypto wallets)  
+Basic Digital democracy functionalities  
+  
+Aug 28, 2023  
+enable Ethereum wallet  
+enable ranked-pairs, quadratic/fractional voting systems  
+enable Twitter authentication  
+  
+Sep 31, 2023  
+integration of Zemi - GIS  
+deliberation processes & instance as a service  
+Questionnaires & assisted networking  
+  
+Nov 30, 2023  
+release Fordem Flutter app  
+enable mesh network formation features  
+Audio rooms  
+
+**Data**
+Fordem is part of the Fediverse, and data is not just going to stay in one place. 
+Private data (only private chat for now) will be encrypted and visible only to the users.  
+We do not keep IP information, and TCF e. V. will protect the entire operations according to GDPR,.
+
     
 Check the [`Feature List`](https://github.com/tcfev/Fordem/issues/85)  
 Want to Join?: [`check here`](https://github.com/tcfev/Fordem/issues/61)  & [`this discussion`](https://github.com/tcfev/Fordem/discussions/52)  
