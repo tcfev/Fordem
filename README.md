@@ -2,12 +2,13 @@
 # Fordem | for democracy | برای مردم‌گردانی
 ## A censorship-resistant digital emocracy platform  
   
-**What is Fordem?**  
-Fordem, an abbreviation of ‘for democracy’, is a digital democracy and socio-political mobilisation platform, with participation, deliberation, and networking functionalities.  
-Fordem app (WIP) forms independent WiFi-Direct & Bluetooth mesh networks when the internet and cellular networks are down, respects privacy and is oriented on data security. Fordem is a part of Fediverse and can be used as app on your smartphone or as desktop-client. Fordem aims to be the main channel for networking and conversations of resistance and resilience, social struggles and sociopolitical mobilisation, and it is there to make the voices of civil society movements heard and to maximise their impact.
+Fordem, an abbreviation of ‘for democracy’ is a digital democracy and socio-political mobilisation platform, with participation, deliberation, and networking functionalities.  
+Fordem app (WIP) forms independent WiFi-Direct networks when the internet and cellular networks are down, respects privacy and is oriented toward maximum data security. Fordem aims to maximise the impact of civil society.
   
-**Who is behind the project?**
-We are the developers of this censorship-resistant sociopolitical network. Our volunteer team is transnational, heterarchical and committed to human rights and fundamental freedoms. We met in a hackathon of Update Deutschland and joined forces and expanded globally because we were working on similar ideas. Organizationally, Fordem is a project of Transnational Community Federation e. V. (TCF). TCF is a non-profit, not-governmental heterarchical civic innovation Lab. With our interdisciplinary approach, we bring about positive changes in our communities around the world. We are active in various fields including promotion of education, democratic systems, and demarginalization. For more information check https://transcf.org 
+**Who is behind the project?**  
+We are based at tech department of the civic innotavation lab [TCF e. V.](https://transcf.org)  
+We are a member of [Vernetzung Bürger:Innenbeteiligung](https://wechange.de/group/vernetzung-buergerinnenbeteiligung/) and an active member of Iranian Woman Life Freedom movement.  
+We actively look for new developers, members of board of trustess and external auditors. [Get involved](https://github.com/tcfev/Fordem/discussions/52)
 
 **Fordem short-term goals:**  
 Fordem is a tool which can help the development of any community since it can be adapted to the respective needs and contexts. In our first version we are invested in providing the Iranian political activists the tools they will need at each of the networking, deliberation and participation stages of their mobilisation along the ongoing Women, Life, Freedom revolution in Iran.  
