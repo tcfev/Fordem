@@ -126,7 +126,7 @@ In version one synchronisation takes place between the databases of each two app
 One main goal is to regularly check & report the level of synchronicity until the network is stabilised and all the data is available on all apps. However smaller chunks of fully synchronised data (individual entities) are still valuable.  
 So, long story short, synchronising the NoSQL databases of the peers in the most efficient way is the goal.
   
-![img](https://github.com/tcfev/Fordem/blob/main/.assets/forDem-P2P-DHT-Diagramm.drawio.png)
+![img](https://github.com/tcfev/Fordem/blob/main/.assets/Fordem-P2P-DHT-Diagramm.drawio.png)
 
 ---
 
