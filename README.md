@@ -11,7 +11,7 @@ We are a member of [Vernetzung Bürger:Innenbeteiligung](https://wechange.de/gro
 We actively look for new developers, members of board of trustess and external auditors. [Get involved](https://github.com/tcfev/Fordem/discussions/52)
 
 **Fordem short-term goals:**  
-Fordem is a tool which can help the development of any community since it can be adapted to the respective needs and contexts. In our first version we are invested in providing the Iranian political activists the tools they will need at each of the networking, deliberation and participation stages of their mobilisation along the ongoing Women, Life, Freedom revolution in Iran.  
+Fordem is a tool for development of any community as it can be adapted to the respective needs and contexts. In our first version we aim to assist Iranian political activists in networking, deliberation and participation stages of their mobilisation along the ongoing Woman, Life, Freedom movement.  
 Furthermore, we are invested in implementing Fordem in communities with a democratic gap in Germany. Our focus is on Heilbronn, a city with more than 54% of the population having (family) experiences with migration but form only 5% of the members of the municipal council. In the long term Fordem has the potential to be the tool for any community worldwide and connect an endless number of communities with each other. In this sense it can strengthen local communities while connecting them with the world. 
   
 **How are we going to do that?**  
