@@ -48,5 +48,5 @@ Want to Join?: [`check here`](https://github.com/tcfev/Fordem/issues/61)  & [`th
 
 **UI Design**  (WIP)
 * [Figma design](https://www.figma.com/file/VHFRoqXfhc2ThZQMZUXcje/%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%DB%8C%2Ff%C3%BCrDem?node-id=0%3A1)  
-* [UX-flowchart](https://github.com/tcfev/Fordem/blob/main/.assets/ux-flowchart.md) - work-in-progress
-* [Brand-identity](https://github.com/tcfev/Fordem/blob/main/.assets/brand-identity.md) - work-in-progress  
+* [UX-flowchart](https://github.com/tcfev/Fordem/blob/main/.assets/ux-flowchart.md) 
+* [Brand-identity](https://github.com/tcfev/Fordem/blob/main/.assets/brand-identity.md)  
