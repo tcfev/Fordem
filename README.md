@@ -15,7 +15,7 @@ Fordem is a tool for development of any community as it can be adapted to the re
 
 Furthermore, we are invested in implementing Fordem in communities in Germany suffering from a democratic gap. Our main forcus ther is Heilbronn, a city with more than 54% of the population with migratory background but only 5% of the seats in the municipal council.
 
-Our long-term goal is to adapt Fordem for various democratic needs of every community around the world and to connect these community to an interconnected and transnationally aware whole. 
+Our long-term goal is to adapt Fordem for various democratic needs of every community around the world and to connect these communities to an interconnected and transnationally aware whole. 
   
 **How are we going to do that?**  
 Fordem is an open-source platform, it is developed in direct collaboration with the civil society, has a crypto economy that gives back to the users if any profit is generated e.g. when news agencies pay to use the survey results (yes, it's not free for those!), provides the users with community building and organisation tools, and is hosted and managed by a non-profit federation.  
