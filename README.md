@@ -2,7 +2,7 @@
 # Fordem | for democracy | برای مردم‌گردانی
 ## A censorship-resistant digital emocracy platform  
   
-Fordem is a dynamic digital democracy and socio-political mobilisation platform, with various social functions built to facilitate participation, community-buidling and organisation.
+Fordem is a digital democracy and socio-political mobilisation platform, with various social functions built to facilitate participation, community-buidling and organisation.
   
 **Who is behind the project?**  
 We are based at tech department of the civic innotavation lab [TCF e. V.](https://transcf.org)  
