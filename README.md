@@ -20,12 +20,14 @@ Our long-term goal is to adapt Fordem for various democratic needs of every comm
 **How are we going to do that?**  
 Fordem is an open-source platform, it is developed in direct collaboration with the civil society, has a crypto economy that gives back to the users if any profit is generated e.g. when news agencies pay to use the survey results (yes, it's not free for those!), provides the users with community building and organisation tools, and is hosted and managed by a non-profit federation.  
   
-**Activists will have the possibility to:**
-- Identify themselves through a pseudonymisation process done by a trusted third party  
-- Create and interactively flesh out their multifaceted profile and connect with people who strive for similar changes as they do  
+**Activists will have the possibility to:** (Diaspora in case of Iran)
+- Identify themselves through a pseudonymisation process done by a trusted 3rd parties
+- Create and interactively flesh out their multifaceted profiles
+- Connect with like-minded people and groups 
 - Organise events and meetings  
-- Deliberate different aspects of the revolution Initiate and take part in polls and surveys and figure out the social choice  
-- Form local mesh wireless networks when internet and electricity is shut down  
+- Collaboratively ideate
+- Utilise various socials functions to find the social choice 
+- Find and form representative groups for more elaborate democratic processes e.g. deliberation  
   
 **Data**  
 Fordem is part of the Fediverse, and data is not just going to stay in one place. 
