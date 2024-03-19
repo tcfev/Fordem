@@ -18,7 +18,7 @@ Furthermore, we are invested in implementing Fordem in communities in Germany su
 Our long-term goal is to adapt Fordem for various democratic needs of every community around the world and to connect these community to an interconnected and transnationally aware whole. 
   
 **How are we going to do that?**  
-Fordem is an open-source platform. At its backend lies Nextodon, an extended version of Mastodon that we have written in C# with gRPC, crypto wallet, advanced votes, E2EE DMs and so on. As a mobile app, Fordem has large-scale mesh network formation abilities using WiFi, WFD and BT for the times of no internet, next to usual Mastodon. A DHT on the Nextodon takes care of synchronisation between databases of the networks that emerge from offline modes. 
+Fordem is an open-source platform, it is developed in direct collaboration with the civil society, has a crypto economy that gives back to the users if any profit is generated e.g. when news agencies pay to use the survey results (yes, it's not free for those!), provides the users with community building and organisation tools, and is hosted and managed by a non-profit federation.  
   
 **Activists will have the possibility to:**
 - Identify themselves through a pseudonymisation process done by a trusted third party  
