@@ -2,8 +2,7 @@
 # Fordem | for democracy | برای مردم‌گردانی
 ## A censorship-resistant digital emocracy platform  
   
-Fordem, an abbreviation of ‘for democracy’ is a digital democracy and socio-political mobilisation platform, with participation, deliberation, and networking functionalities.  
-Fordem app (WIP) forms independent WiFi-Direct networks when the internet and cellular networks are down, respects privacy and is oriented toward maximum data security. Fordem aims to maximise the impact of civil society.
+Fordem is a dynamic digital democracy and socio-political mobilisation platform, with various social functions built to facilitate participation, community-buidling and organisation.
   
 **Who is behind the project?**  
 We are based at tech department of the civic innotavation lab [TCF e. V.](https://transcf.org)  
