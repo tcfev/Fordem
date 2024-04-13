@@ -37,9 +37,8 @@ We actively look for [`developers`](https://github.com/tcfev/Fordem/issues/61), 
 * [Organisation & Component Overview](https://github.com/tcfev/fordem/blob/main/.assets/organisation.md) (EN)
 
 * Organisation & Component Overview (فارسی):  
-  
-
 ![Alt](.assets/big-picture-per.drawio.png)
+[Civic Compass](https://github.com/orgs/tcfev/projects/14/views/4)
 * [Our Values & principles](https://github.com/tcfev/fordem/issues/57)
 * [Protocols](https://github.com/tcfev/fordem/tree/main/.assets/.protocols)
 #
