@@ -5,7 +5,7 @@
 Fordem is a digital democracy and socio-political mobilisation platform, with various social functions built to facilitate participation, community-buidling and organisation.
   
 **Who is behind the project?**  
-We are based at the tech department of [TCF e. V.](https://transcf.org), a member-funded non-profit civic innotavation lab.
+We are based at the tech department of [Transnational Community Federation e. V.](https://transcf.org), a member-funded non-profit civic innotavation lab.
 Fordem is a member of [Vernetzung Bürger:Innenbeteiligung](https://wechange.de/group/vernetzung-buergerinnenbeteiligung/) in Germany and an active member of Iranian Woman Life Freedom movement.  
 
 **Fordem short-term goals:**  
