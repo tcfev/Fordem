@@ -38,7 +38,7 @@ We actively look for [`developers`](https://github.com/tcfev/Fordem/issues/61), 
 
 * Organisation & Component Overview (فارسی):  
 ![Alt](.assets/big-picture-per.drawio.png)
-* [Iranians.vote](https://github.com/tcfev/iranians.vote)
+* [Iranians.vote](https://github.com/iranians-Vote-Digital-Democracy/)
 * [Our Values & principles](https://github.com/tcfev/fordem/issues/57)
 * [Protocols](https://github.com/tcfev/fordem/tree/main/.assets/.protocols)
 #
